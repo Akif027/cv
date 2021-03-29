@@ -1,0 +1,30 @@
+body{
+    background-color: paleturquoise;
+  }
+  hr{
+    background-color: paleturquoise;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 4px;
+    width: 5%;
+
+  }
+
+  h1{
+    
+    color:#2b2e4a;}
+  h2{
+      color:#007580;
+  }
+
+  img :hover{
+    
+    background-color: golds;
+  }
+  
+  .link{
+     
+    background-color: golds;
+
+  }
